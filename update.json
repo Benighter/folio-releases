@@ -1,9 +1,9 @@
 {
   "packageName": "com.benighter.folio",
-  "versionCode": 3,
-  "versionName": "0.2.0",
-  "url": "https://github.com/Benighter/folio-releases/releases/download/v0.2.0/Folio-0.2.0.apk",
-  "size": 10158126,
-  "sha256": "04d13b448a0399336723495b831bb85eb50f232c2b93e6f00821ca8d91ef96d7",
-  "releaseNotes": "Pinch zoom, clean reading, collapsible editing tools, optional underline, Word formatting and insertion, Excel cell formatting, PowerPoint slide duplication, creator credit and launch-time update checks. This is an early release: advanced desktop Office features, full layout rendering and formula calculation are not yet included."
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "url": "https://github.com/Benighter/folio-releases/releases/download/v0.3.0/Folio-0.3.0.apk",
+  "size": 10161167,
+  "sha256": "3338a51dc8c3e88ccee15d8f47555b963866b6b5b75a3d925756f33f02911ab2",
+  "releaseNotes": "Full-height document views, pinch zoom, collapsible grouped editing tools, highlighted-text formatting, Save location picker and exit confirmation. Word formatting/insertion, Excel cell styles, PowerPoint slide duplication and creator credit. Early release: advanced desktop Office features, full layout rendering and formula calculation are not yet included."
 }

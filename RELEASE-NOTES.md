@@ -1,8 +1,14 @@
-# Folio 0.2.0
+# Folio 0.3.0
 
 Created by Bennet Nkolele.
 
 ## What's new
+
+- Document canvases fill the available screen, including after keyboard and toolbar changes.
+- Character formatting requires highlighted text and never falls back to the whole page. Alignment applies only to selected paragraphs.
+- Save opens Android's location picker; drafts remain protected separately.
+- Back from the homepage asks before leaving the app.
+- Editing controls are grouped by purpose.
 
 - Pinch in and out to zoom documents, from 50% to 400%.
 - Clean reading view, with collapsible controls and an editing-only mobile ribbon.
