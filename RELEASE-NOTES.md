@@ -1,8 +1,12 @@
-# Folio 0.3.0
+# Folio 0.3.1
 
 Created by Bennet Nkolele.
 
 ## What's new
+
+- Polished spreadsheet workspace with frozen headers, clear active row and column indicators, wider cells and smooth horizontal scrolling.
+- Wide Word tables now scroll horizontally on small screens without breaking words into narrow vertical fragments.
+- Refined mobile studio chrome with clearer grouped controls, larger touch targets and format-specific workspace styling.
 
 - Document canvases fill the available screen, including after keyboard and toolbar changes.
 - Character formatting requires highlighted text and never falls back to the whole page. Alignment applies only to selected paragraphs.
